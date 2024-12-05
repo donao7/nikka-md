@@ -11,7 +11,7 @@ module.exports = {
   ANTILINK: toBool(process.env.ANTI_LINK) || false,
   LOGS: toBool(process.env.LOGS) || false,
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
-  SESSION_ID:process.env.SESSION_ID || "Nikka-Xk3JUGJgR#73upiDyAvCJPBSIsk9gPQOuJSIt6YfkTy7kEjtWGhe4",
+  SESSION_ID:process.env.SESSION_ID || "Nikka-XEngTSACD#IUP-T5VD0-XfrXQelznQiSOywDor2gMx2QptdSpiu-A",
   LANG: process.env.LANG || "EN",
   HANDLERS: process.env.PREFIX || '^[!]',
   BRANCH: "main",
